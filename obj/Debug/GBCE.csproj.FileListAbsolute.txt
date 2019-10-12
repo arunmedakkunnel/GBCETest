@@ -1,0 +1,7 @@
+F:\GBCE\GBCE\GBCE\obj\Debug\GBCE.csprojAssemblyReference.cache
+F:\GBCE\GBCE\GBCE\obj\Debug\GBCE.csproj.CoreCompileInputs.cache
+F:\GBCE\GBCE\GBCE\bin\Debug\GBCE.exe.config
+F:\GBCE\GBCE\GBCE\bin\Debug\GBCE.exe
+F:\GBCE\GBCE\GBCE\bin\Debug\GBCE.pdb
+F:\GBCE\GBCE\GBCE\obj\Debug\GBCE.exe
+F:\GBCE\GBCE\GBCE\obj\Debug\GBCE.pdb
